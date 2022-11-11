@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'EVRoute'
   s.version          = '1.0.0'
-  s.summary          = 'EVRoute是一个高效/灵活的 iOS URL Router.'
+  s.summary          = 'EVRoute is an smart iOS URL Router.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-EVRoute是一个高效/灵活的 iOS URL Router.
+  EVRoute is an smart iOS URL Router.
                        DESC
 
   s.homepage         = 'https://github.com/821385843@qq.com/EVRoute'

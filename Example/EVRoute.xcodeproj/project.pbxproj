@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		0AA0D04D4203655844ECF1AD /* Pods-EVRoute_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EVRoute_Example.release.xcconfig"; path = "Target Support Files/Pods-EVRoute_Example/Pods-EVRoute_Example.release.xcconfig"; sourceTree = "<group>"; };
-		0CE96A7A971F4A9F6C7354DF /* EVRoute.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = EVRoute.podspec; path = ../EVRoute.podspec; sourceTree = "<group>"; };
+		0CE96A7A971F4A9F6C7354DF /* EVRoute.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = EVRoute.podspec; path = ../EVRoute.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		117B80A9C9B6F69D58B400E9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		2958E4B0E970BFB695FC5872 /* Pods-EVRoute_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EVRoute_Tests.debug.xcconfig"; path = "Target Support Files/Pods-EVRoute_Tests/Pods-EVRoute_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		3BD54FE2544697B0B26B9B12 /* Pods-EVRoute_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EVRoute_Tests.release.xcconfig"; path = "Target Support Files/Pods-EVRoute_Tests/Pods-EVRoute_Tests.release.xcconfig"; sourceTree = "<group>"; };
