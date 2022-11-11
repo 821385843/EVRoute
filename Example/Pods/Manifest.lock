@@ -1,5 +1,5 @@
 PODS:
-  - EVRoute (1.0.1)
+  - EVRoute (1.0.2)
 
 DEPENDENCIES:
   - EVRoute (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  EVRoute: c7e482748d1cf9d025f80b30e2c068db0a632bc9
+  EVRoute: fa825bcd8591c26b437855c4be0e381cb5793959
 
 PODFILE CHECKSUM: c42562bec14be8bf46509ecaa285bff57e580f49
 
